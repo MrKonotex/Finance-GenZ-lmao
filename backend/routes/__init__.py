@@ -1,0 +1,31 @@
+from routes import (
+    journal,
+    trades,
+    stats,
+    watchlist,
+    patterns,
+    pairs,
+    funding,
+    psychology,
+    reviews,
+    market,
+    alerts,
+    vaults,
+    scanner,
+)
+
+__all__ = [
+    "journal",
+    "trades",
+    "stats",
+    "watchlist",
+    "patterns",
+    "pairs",
+    "funding",
+    "psychology",
+    "reviews",
+    "market",
+    "alerts",
+    "vaults",
+    "scanner",
+]
